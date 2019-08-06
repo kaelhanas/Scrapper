@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b048040c-5a28-41d3-a338-65b2a14832be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/viper.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/viperConfig.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoConnections/packageVars.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoConnections/scrapperDBConnection.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/packageVars.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/synchroRepository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/synchrosTRepository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/transactionsTRepository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/contain.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/repoTest/synchrosRepository_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/repo/repoTest/synchrosTRepository_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/repoTest/transactionsRepository_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/repo/repoTest/transactionsTRepository_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/synchrosRepository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/transactionsRepository.go" beforeDir="false" afterPath="$PROJECT_DIR$/repo/transactionsRepository.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/mongodbConnection.go" beforeDir="false" afterPath="$PROJECT_DIR$/mongoConnections/mongodbConnection.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +41,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ALTEN/GoSfeir" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,7 +50,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -175,6 +157,7 @@
       <workItem from="1564837127468" duration="338000" />
       <workItem from="1564949797684" duration="6702000" />
       <workItem from="1565077468420" duration="14369000" />
+      <workItem from="1565103119345" duration="639000" />
     </task>
     <servers />
   </component>
@@ -193,6 +176,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

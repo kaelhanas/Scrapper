@@ -42,7 +42,7 @@ func (sr *synchroRepo) InsertSynchro(newSynchro model.Json_S) {
 }
 
 // Deprecated
-func (sr *synchroRepo) collectionExist() bool { /*
+/*func (sr *synchroRepo) collectionExist() bool {
 	result := false
 
 	// get mongo client
@@ -62,5 +62,5 @@ func (sr *synchroRepo) collectionExist() bool { /*
 		result = true
 	}
 
-	return result */
-}
+	return result
+} */

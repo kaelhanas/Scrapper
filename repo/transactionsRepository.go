@@ -4,9 +4,7 @@ import (
 	"Scrapper_POC/model"
 	"Scrapper_POC/mongoConnections"
 	"context"
-	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
-	"go.mongodb.org/mongo-driver/mongo/options"
 	"log"
 )
 
@@ -44,7 +42,7 @@ func (tr *transactionsRepo) InsertTrans(newTrans model.Json_T) {
 }
 
 // Deprecated
-func (tr *transactionsRepo) collectionExist() bool { /*
+/*func (tr *transactionsRepo) collectionExist() bool {
 	result := false
 
 	// get mongo client
@@ -64,5 +62,5 @@ func (tr *transactionsRepo) collectionExist() bool { /*
 		result = true
 	}
 
-	return result */
-}
+	return result
+}*/
