@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b048040c-5a28-41d3-a338-65b2a14832be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config/viper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/viperConfig.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoConnections/packageVars.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoConnections/scrapperDBConnection.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repo/packageVars.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repo/synchroRepository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repo/synchrosTRepository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repo/transactionsTRepository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/contain.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/repoTest/synchrosRepository_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/repo/repoTest/synchrosTRepository_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/repoTest/transactionsRepository_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/repo/repoTest/transactionsTRepository_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/synchrosRepository.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/transactionsRepository.go" beforeDir="false" afterPath="$PROJECT_DIR$/repo/transactionsRepository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/mongodbConnection.go" beforeDir="false" afterPath="$PROJECT_DIR$/mongoConnections/mongodbConnection.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="356" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1OY5nhJTnHShazwcrh19uIwpwZH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ALTEN/GoSfeir" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CRESUS\bgv\Workspace\Scrapper_POC" />
+      <recent name="D:\CRESUS\bgv\Workspace\Scrapper_POC\service" />
+      <recent name="D:\CRESUS\bgv\Workspace\Scrapper_POC\jsons" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Scrapper_POC" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="Scrapper_POC" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsertSynchro in Scrapper_POC/repo/repoTest (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Scrapper_POC" />
+      <working_directory value="$PROJECT_DIR$/repo/repoTest" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Scrapper_POC/repo/repoTest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestInsertSynchro$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsertSynchro in Scrapper_POC/repo/repoTest" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Scrapper_POC" />
+      <working_directory value="$PROJECT_DIR$/repo/repoTest" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Scrapper_POC/repo/repoTest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestInsertSynchro$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsertTrans in Scrapper_POC/repo/repoTest" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Scrapper_POC" />
+      <working_directory value="$PROJECT_DIR$/repo/repoTest" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Scrapper_POC/repo/repoTest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestInsertTrans$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test Scrapper_POC" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Scrapper_POC" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="Scrapper_POC" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Test.TestInsertSynchro in Scrapper_POC/repo/repoTest (1)" />
+        <item itemvalue="Go Test.go test Scrapper_POC" />
+        <item itemvalue="Go Test.TestInsertTrans in Scrapper_POC/repo/repoTest" />
+        <item itemvalue="Go Test.TestInsertSynchro in Scrapper_POC/repo/repoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b048040c-5a28-41d3-a338-65b2a14832be" name="Default Changelist" comment="" />
+      <created>1564141857291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564141857291</updated>
+      <workItem from="1564141861566" duration="1037000" />
+      <workItem from="1564142918888" duration="3526000" />
+      <workItem from="1564147556647" duration="1272000" />
+      <workItem from="1564384967597" duration="4334000" />
+      <workItem from="1564389561656" duration="7449000" />
+      <workItem from="1564481312219" duration="35385000" />
+      <workItem from="1564661996813" duration="4413000" />
+      <workItem from="1564671678509" duration="340000" />
+      <workItem from="1564730095792" duration="10131000" />
+      <workItem from="1564832644789" duration="2401000" />
+      <workItem from="1564837127468" duration="338000" />
+      <workItem from="1564949797684" duration="6702000" />
+      <workItem from="1565077468420" duration="14369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Scrapper_POC$TestInsertSynchro_in_Scrapper_POC_repo_repoTest.out" NAME="TestInsertSynchro in Scrapper_POC/repo/repoTest Coverage Results" MODIFIED="1564574550363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

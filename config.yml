@@ -1,0 +1,25 @@
+mongo:
+  server:
+    host: "localhost"
+    port: "27017"
+  account:
+    username: "scrapper"
+    password: "scrapperpwd"
+    hostDB: "scrapperDB"
+  dbs:
+    scrapper:
+      dbName: "scrapperDB"
+      scrapperCollections:
+        synchro: "synchro"
+        transactions: "transactions"
+    common:
+      dbName: "common"
+      commonCollections:
+        users: "users"
+
+
+
+
+jsonpath:
+  connections:
+    accounts: "connections.#.accounts"
